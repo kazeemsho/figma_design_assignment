@@ -97,6 +97,12 @@
   height: 39px;
   margin-left: 59px;
   margin-top: -25px;
+  font-size: 20px;
+  font-weight: 500px;
+  line-height: 23px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: #4F4F4F;
 }
 
 /* end compare and book section*/
