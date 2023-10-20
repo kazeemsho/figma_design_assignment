@@ -351,8 +351,12 @@
   text-decoration: underline blue 3px;
 }
 .whywhirch_div:hover {
-  text-decoration: underline dotted blue 3px;
+  text-decoration: none;
 }
+/*.whywhirch_div:hover {
+  text-decoration: underline dotted blue 3px;
+}*/
+
 .enter_location_and_enter_destination {
   height: 86px;
   width: 379px;
