@@ -90,6 +90,7 @@
 }
 .compare_and_book:hover {
   outline: 1px solid blue;
+  text-decoration: underline blue 2px;
 }
 .Save_money_and_time {
   /*outline: 1px solid black;*/
